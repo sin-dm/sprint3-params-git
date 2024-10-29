@@ -47,5 +47,6 @@ public class StudentServiceParamTest {
     @Test
     public void checkSome() {
         assertTrue(true);
+        System.out.println("test");
     }
 }

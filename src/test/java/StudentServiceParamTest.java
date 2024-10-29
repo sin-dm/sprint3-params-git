@@ -32,7 +32,8 @@ public class StudentServiceParamTest {
                 100,
                 500,
                 900,
-                1000
+                1000,
+                2000
         };
     }
 

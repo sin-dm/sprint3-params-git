@@ -32,7 +32,8 @@ public class StudentServiceParamTest {
                 100,
                 500,
                 900,
-                1000
+                1000,
+                2000
         };
     }
 
@@ -46,5 +47,6 @@ public class StudentServiceParamTest {
     @Test
     public void checkSome() {
         assertTrue(true);
+        System.out.println("test");
     }
 }
